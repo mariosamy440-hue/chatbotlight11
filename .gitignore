@@ -1,0 +1,7 @@
+
+.env
+.venv/
+__pycache__/
+*.pyc
+olist_chat.db
+.streamlit/secrets.toml
